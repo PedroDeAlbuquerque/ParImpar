@@ -1,0 +1,16 @@
+C:\workspace\estudo_c#\ParImpar\bin\Debug\net5.0\ParImpar.exe
+C:\workspace\estudo_c#\ParImpar\bin\Debug\net5.0\ParImpar.deps.json
+C:\workspace\estudo_c#\ParImpar\bin\Debug\net5.0\ParImpar.runtimeconfig.json
+C:\workspace\estudo_c#\ParImpar\bin\Debug\net5.0\ParImpar.runtimeconfig.dev.json
+C:\workspace\estudo_c#\ParImpar\bin\Debug\net5.0\ParImpar.dll
+C:\workspace\estudo_c#\ParImpar\bin\Debug\net5.0\ref\ParImpar.dll
+C:\workspace\estudo_c#\ParImpar\bin\Debug\net5.0\ParImpar.pdb
+C:\workspace\estudo_c#\ParImpar\obj\Debug\net5.0\ParImpar.csproj.AssemblyReference.cache
+C:\workspace\estudo_c#\ParImpar\obj\Debug\net5.0\ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\estudo_c#\ParImpar\obj\Debug\net5.0\ParImpar.AssemblyInfoInputs.cache
+C:\workspace\estudo_c#\ParImpar\obj\Debug\net5.0\ParImpar.AssemblyInfo.cs
+C:\workspace\estudo_c#\ParImpar\obj\Debug\net5.0\ParImpar.csproj.CoreCompileInputs.cache
+C:\workspace\estudo_c#\ParImpar\obj\Debug\net5.0\ParImpar.dll
+C:\workspace\estudo_c#\ParImpar\obj\Debug\net5.0\ref\ParImpar.dll
+C:\workspace\estudo_c#\ParImpar\obj\Debug\net5.0\ParImpar.pdb
+C:\workspace\estudo_c#\ParImpar\obj\Debug\net5.0\ParImpar.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParImpar", "ParImpar.csproj", "{4A75DE12-6C09-4688-A425-A1BAC80EA432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A75DE12-6C09-4688-A425-A1BAC80EA432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A75DE12-6C09-4688-A425-A1BAC80EA432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A75DE12-6C09-4688-A425-A1BAC80EA432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A75DE12-6C09-4688-A425-A1BAC80EA432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACE3651F-2BE9-4FC0-98B3-5B19BCDC23F6}
+	EndGlobalSection
+EndGlobal
